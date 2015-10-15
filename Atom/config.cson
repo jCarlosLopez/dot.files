@@ -1,0 +1,32 @@
+"*":
+  "exception-reporting":
+    userId: "d3f11e76-9503-e1ab-e278-5da59934261b"
+  welcome:
+    showOnStartup: false
+  editor:
+    invisibles: {}
+    tabLength: 4
+    showIndentGuide: true
+    fontFamily: "Bitstream Vera Sans Mono"
+    confirmCheckoutHeadRevision: false
+    fontSize: 15
+  core:
+    disabledPackages: [
+      "vim-mode"
+    ]
+    autoHideMenuBar: true
+    themes: [
+      "one-dark-ui"
+      "chester-atom-syntax"
+    ]
+  "atom-beautify":
+    _analyticsUserId: "ba8ef79c-1389-4631-8e39-631451ae14e2"
+    js_indent_with_tabs: true
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  nuclide:
+    remoteProjectsConfig: []
+  tabs:
+    usePreviewTabs: true
+  "vim-mode": {}
+  linter: {}
